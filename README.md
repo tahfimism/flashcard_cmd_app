@@ -34,9 +34,13 @@ This project was built from scratch using pure Python and some pip-installed lib
 
 project/
 ├── project.py          # Main CLI logic and all functions
+
 ├── test_project.py     # Unit tests for core functions
+
 ├── requirements.txt    # List of required pip libraries
+
 ├── cards.json          # (Auto-generated) Flashcard database
+
 └── README.md           # This file
 
 ---
