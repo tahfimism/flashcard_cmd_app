@@ -1,0 +1,77 @@
+[
+    {
+        "id": "37fec4f6-d1fb-46e2-b497-3a4135357e22",
+        "hint": "Test hint",
+        "description": "Test desc",
+        "times_shown": 1,
+        "times_correct": 1,
+        "accuracy": 1.0,
+        "last_shown": "2025-06-01",
+        "last_correct": "2025-06-01",
+        "stage": "strong",
+        "tags": [
+            "tag1",
+            "tag2"
+        ]
+    },
+    {
+        "id": "a5c6b777-91a2-49fb-91ff-dfa7c57cc001",
+        "hint": "Python keyword for function",
+        "description": "def",
+        "times_shown": 4,
+        "times_correct": 2,
+        "accuracy": 0.5,
+        "last_shown": "2025-06-01",
+        "last_correct": "2025-05-30",
+        "stage": "strong",
+        "tags": [
+            "python",
+            "syntax"
+        ]
+    },
+    {
+        "id": "d2fa7f67-12b3-4b9f-a6f5-b3d0c2118888",
+        "hint": "Built-in data type: unordered, key-value",
+        "description": "dictionary",
+        "times_shown": 6,
+        "times_correct": 4,
+        "accuracy": 0.6666666666666666,
+        "last_shown": "2025-06-01",
+        "last_correct": "2025-06-01",
+        "stage": "strong",
+        "tags": [
+            "python",
+            "data type"
+        ]
+    },
+    {
+        "id": "08e8d5b5-6433-4b33-a0e9-622f9049cd55",
+        "hint": "What does JSON stand for?",
+        "description": "JavaScript Object Notation",
+        "times_shown": 2,
+        "times_correct": 2,
+        "accuracy": 1.0,
+        "last_shown": "2025-06-01",
+        "last_correct": "2025-06-01",
+        "stage": "strong",
+        "tags": [
+            "json",
+            "format"
+        ]
+    },
+    {
+        "id": "91a88800-bfbb-426c-9b1d-06f7ef23c1a9",
+        "hint": "CLI stands for?",
+        "description": "Command Line Interface",
+        "times_shown": 2,
+        "times_correct": 1,
+        "accuracy": 0.5,
+        "last_shown": "2025-06-01",
+        "last_correct": "2025-05-30",
+        "stage": "weak",
+        "tags": [
+            "cli",
+            "basics"
+        ]
+    }
+]
