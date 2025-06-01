@@ -1,6 +1,6 @@
 # Flashcard Terminal App
 
-#### Video Demo: [https://youtu.be/YOUR_VIDEO_LINK_HERE](https://youtu.be/YOUR_VIDEO_LINK_HERE)
+#### Video Demo: [https://youtu.be/-CodZ0vJs6E?si=JRJcZpUix8uJJw_K](https://youtu.be/-CodZ0vJs6E?si=JRJcZpUix8uJJw_K)
 #### Author: Nakib Noor
 #### GitHub: tahfimism
 #### edX Username: tahfimism
