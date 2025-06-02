@@ -1,3 +1,9 @@
+
+![Flashcard Terminal App](https://github.com/user-attachments/assets/c84b707e-e1fa-478a-8122-85ac6aa40d8c)
+
+![Flashcard Terminal App (1)](https://github.com/user-attachments/assets/902280ec-f3a4-4680-85db-252a492f3b69)
+
+
 # Flashcard Terminal App
 
 #### Video Demo: [https://youtu.be/-CodZ0vJs6E?si=JRJcZpUix8uJJw_K](https://youtu.be/-CodZ0vJs6E?si=JRJcZpUix8uJJw_K)
